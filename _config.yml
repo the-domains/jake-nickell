@@ -1,0 +1,29 @@
+name: Jake Nickell
+favicon: null
+layout_spectrum: 0.43816842464730144
+typography_spectrum: 0.6335242534987628
+title: "Jake Nickell –\_Coolest Dude on Earth"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33087317971512675
+  lightness: 0.19305775803513825
+  saturation: 0.7716424679383636
+  rhythmicContrast: 0.17605229699984193
+purpose: []
